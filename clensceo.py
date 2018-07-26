@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# C-lens-CEO - Cylance Python Wrapper - https://github.com/lazycedar/clensceo
+# C-lens-CEO - Cylance Python Wrapper - https://github.com/mbertaboni/clensceo
 # Copyright (C) 2018 Maurizio Bertaboni
 # LOOK DOWN for SETUP !
 # C-lens-CEO (this file) is free software: you can redistribute it and/or modify
